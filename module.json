@@ -1,0 +1,13 @@
+{
+    "name": "AlipayApplet",
+    "alias": "alipayapplet",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\AlipayApplet\\Providers\\AlipayAppletServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
